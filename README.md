@@ -39,7 +39,7 @@ Steve liked the workbook i created for him earlier using VBA as it allowed him t
 * The time taken to run the *refactored code* was **0.1749268** seconds for 2018
 * Refactored code took only **21.1%** of time taken by original code to run. It means that the original code took **4.73 times** longer to run than refactored code
 
-***Conclusion: Refactoring reduces the time taken to run the code significantly.***
+***Conclusion: Refactoring significantly reduces the time taken to run the code.***
 
 ### Steps Involved in Refactoring the Code
 
