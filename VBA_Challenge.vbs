@@ -70,9 +70,7 @@ Sub AllStocksAnalysisRefactored()
          If Cells(i - 1, 1).Value <> tickers(tickerIndex) And Cells(i, 1).Value = tickers(tickerIndex) Then
                 tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
         'End If
-         End If
-                   
-        
+         End If              
         
         '3c) check if the current row is the last row with the selected ticker
          'If the next row's ticker doesn't match, increase the tickerIndex.
@@ -83,8 +81,7 @@ Sub AllStocksAnalysisRefactored()
                 tickerIndex = tickerIndex + 1
         'End If
          End If
-        
-    
+           
     Next i
     
     '4) Loop through your arrays to output the Ticker, Total Daily Volume, and Return.
