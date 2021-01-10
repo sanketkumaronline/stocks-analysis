@@ -30,14 +30,14 @@ Steve liked the workbook i created for him earlier using VBA as it allowed him t
 ### Code Refactoring Performance
 
 **For 2017**
-* The time taken to run the original code was 0.8389893 seconds for 2017
-* The time taken to run the refactored code was 0.1690674 seconds for 2017
-* Therefore, refactored code took only 20.1% of time taken by original code to run. In other words, refactoring reduced the code run time to 1/5th of original.
+* The time taken to run the *original code* was **0.8389893** seconds for 2017
+* The time taken to run the *refactored code* was **0.1690674** seconds for 2017
+* Therefore, refactored code took only **20.1%** of time taken by original code to run. In other words, refactoring reduced the code run time to **1/5th** of original.
 
 **For 2018**
-* The time taken to run the original code was 0.8289795 seconds for 2018
-* The time taken to run the refactored code was 0.1749268 seconds for 2018
-* Refactored code took only 21.1% of time taken by original code to run. It means that the original code took 4.7 times longer to run than refactored code
+* The time taken to run the *original code* was **0.8289795** seconds for 2018
+* The time taken to run the *refactored code* was **0.1749268** seconds for 2018
+* Refactored code took only **21.1%** of time taken by original code to run. It means that the original code took **4.73 times** longer to run than refactored code
 
 ***Conclusion: Refactoring reduces the time taken to run the code significantly.***
 
@@ -64,7 +64,7 @@ Given below are **advantages** of refactoring code:
 Given below are **disadvantages** of refactoring code:
 
 1. *Time Consuming:* Refactoring code may require a lot of time and efforts especially if a large amount of code has already been written.
-2. *Expertise:* High expertise is required in order to refactor the code.  
+2. *Cost:* High expertise is required in order to refactor the code. This can increase the overall cost.  
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 **Pros:**
