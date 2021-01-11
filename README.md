@@ -73,6 +73,6 @@ Given below are **disadvantages** of refactoring code:
 3. *Readability:* Removing the nested loops and creating separate loop for output improved the readability of the code.
 
 **Cons:**
-1. *More Memory Usage:* Creating output arrays will take up more memory space as compared to the original code.
+1. *More Memory Usage:* Creating arrays for output in refactored code will take up more memory space as compared to the original code where we used variables for output and their values were overwritten with every iteration of loop.
 
   
