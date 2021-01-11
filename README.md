@@ -69,7 +69,7 @@ Given below are **disadvantages** of refactoring code:
 ### How do these pros and cons apply to refactoring the original VBA script?
 **Pros:**
 1. *Improved Speed:* Refactoring reduced the time taken to run the code by around 80%. I.e. refactored code only took about 1/5th of the original time to run.
-2. *Extensibility:* Storing the vlaues for ticker volumes, ticker starting prices, and ticker ending prices in arrays allows us to use these values later if we decide to expand the code and include new functionality.  
+2. *Extensibility:* Storing the vlaues for ticker volumes, ticker starting prices, and ticker ending prices for each stock in arrays allows us to use these values later if we decide to expand the code and include new functionality.  
 3. *Readability:* Removing the nested loops and creating separate loop for output improved the readability of the code.
 
 **Cons:**
