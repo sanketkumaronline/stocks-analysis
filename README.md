@@ -24,7 +24,7 @@ Steve liked the workbook i created for him earlier using VBA as it allowed him t
 1. In 2017, 11 out of 12 green energy stocks analyzed had *positive* return. Whereas in 2018, only 2 out of 12 had positive return.
 2. ENPH seems *best* stock to invest as it had good positive return in both 2017 (129.5%) and 2018 (81.9%). RUN was another stock which provided positive return in both the years, though its 2017 return wasn't high (5.5%).
 3. TERP gave *negative* returns in both 2017 and 2018. Therefore, it should be avoided.
-4. DQ provided best return in 2017 (199.4%) but the worse return in 2018 (-62.6%). Therefore, it has the *highest variation* and hence needs to be studied further before investing.
+4. DQ provided best return in 2017 (199.4%) but the worst return in 2018 (-62.6%). Therefore, it has the *highest variation* and hence needs to be studied further before investing.
 5. The *average return* of the given 12 green energy stocks was 67.3% for 2017, and -8.5% for 2018. Overall, 2017 was *good* year for green energy stocks but 2018 was *not good*.  
 
 ### Code Refactoring Performance
